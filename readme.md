@@ -32,3 +32,7 @@ The Hotelio App is a comprehensive Node.js application designed for managing hot
 - express-rate-limit
 - cookie-parser
 - nodemon
+
+## License
+
+This project is licensed under the [MIT License].
